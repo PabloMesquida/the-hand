@@ -259,7 +259,7 @@ fabricGui.add(fabricCover, 'value', 0, 1, 0.001).name('cover')
  * Hand
  */
 const handOptions = {
-    distance: 2, // Fija (negativo = atraviesa el vidrio y empuja la tela)
+    distance: 1, // Fija (negativo = atraviesa el vidrio y empuja la tela)
     rotationX: 0.5,
     rotationY: 0,
     rotationZ: 0,

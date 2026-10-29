@@ -6,6 +6,8 @@ A rigged hand behind frosted glass, made with three.js (WebGPU + TSL).
 - When the hand pushes through the glass, it stretches like lycra fabric (compute shaders).
 - The index finger follows the mouse: the forearm twists, the wrist and knuckle fine-tune, and the fingers stretch out in a cascade as the cursor gets close to the fingertip.
 
+![The Hand](docs/demo.png)
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run the following commands:
