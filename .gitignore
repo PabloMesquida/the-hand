@@ -1,0 +1,21 @@
+node_modules
+dist
+.DS_Store
+
+# Herramientas locales
+.claude/
+__pycache__/
+
+# Backups de Blender
+*.blend1
+
+# Material de trabajo (videos, capturas)
+recursos/*.mp4
+recursos/*.png
+recursos/capturas/
+
+# Notas privadas
+BITACORA.md
+
+# Modelos fuente (en el repo solo va static/hand.glb)
+recursos/models/
